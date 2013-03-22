@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Frenzy", "Space Frenzy\Space Frenzy.csproj", "{4D802FA0-593A-487C-9A10-3E582514D7D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space FrenzyContent", "Space Frenzy\Content\Space FrenzyContent.contentproj", "{FEC4DC29-2D4E-4914-89F2-8F34D1C6D779}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D802FA0-593A-487C-9A10-3E582514D7D4}.Debug|x86.ActiveCfg = Debug|x86
+		{4D802FA0-593A-487C-9A10-3E582514D7D4}.Debug|x86.Build.0 = Debug|x86
+		{4D802FA0-593A-487C-9A10-3E582514D7D4}.Release|x86.ActiveCfg = Release|x86
+		{4D802FA0-593A-487C-9A10-3E582514D7D4}.Release|x86.Build.0 = Release|x86
+		{FEC4DC29-2D4E-4914-89F2-8F34D1C6D779}.Debug|x86.ActiveCfg = Debug|x86
+		{FEC4DC29-2D4E-4914-89F2-8F34D1C6D779}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
